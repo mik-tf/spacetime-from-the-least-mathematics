@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "Spacetime from the least mathematics"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24596477](https://doi.org/10.5281/zenodo.24596477)
+
 This is a beginner text. It asks how much of spacetime you can build from one very small piece of mathematics, and it follows the answer step by step. It needs school algebra and a little patience. It uses a few formulas, each one explained.
 
 **Nothing in this text is a new result.** Every result below is known, and each one is credited to its authors where it appears. The text only tells the story in one order, from one formula. Where we ran a computation ourselves, we say so, and it is only a check of a published result. A list of works, with identifiers, closes the text.
