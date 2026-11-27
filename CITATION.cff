@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Spacetime from the least mathematics: a beginner text on one formula, three number planes and what they build"
+type: generic
+authors:
+  - family-names: Perreault
+    given-names: Michaël
+    orcid: "https://orcid.org/0009-0003-0017-7658"
+    affiliation: "Independent researcher"
+version: "1.0"
+date-released: "2026-11-27"
+license: CC-BY-4.0
+keywords:
+  - spacetime
+  - split-complex numbers
+  - dual numbers
+  - Lorentz boost
+  - beginner text
+references:
+  - type: article
+    title: "Affine length bounds the conformal excursion on a null cone: a sharp focusing inequality"
+    authors:
+      - family-names: Perreault
+        given-names: Michaël
+    doi: "10.5281/zenodo.24572220"
+    year: 2026

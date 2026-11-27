@@ -1,0 +1,22 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "Spacetime from the least mathematics: a beginner text on one formula, three number planes and what they build",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>A beginner text on how much of spacetime can be built from one very small piece of mathematics, the formula x squared minus k t squared. It follows three number planes (complex, dual and split-complex), boosts, light, a shock wave, a spinning example and the menu of possible spacetimes. It needs school algebra. Nothing in it is a new result: every result is known and credited to its authors.</p>",
+  "keywords": [
+    "spacetime",
+    "split-complex numbers",
+    "dual numbers",
+    "Lorentz boost",
+    "beginner text"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0"
+}
